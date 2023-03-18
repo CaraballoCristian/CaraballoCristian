@@ -48,7 +48,7 @@
 
 - 💪🏼 My current goal is **to get my first job as a WebDev**.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **React** & **Design Patterns**.
 
 - 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**.
 
