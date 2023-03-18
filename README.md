@@ -57,6 +57,7 @@
 #
 
 <h3 align="left">About me:</h3>
+-   arquitectura SPA y MVC
 
 - 🎓 I’m a **Computer Science** student at **UNLP**
  
