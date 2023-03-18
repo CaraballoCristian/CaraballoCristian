@@ -53,11 +53,6 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/cristiancaraballo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiancaraballo" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">About me:</h3>
 
 - 🎓 I’m a **Computer Science** student at **UNLP**
@@ -74,9 +69,9 @@
 
 - 🔗 LinkedIn Profile: [LinkedIn](https://linkedin.com/in/cristiancaraballo)
 
-- 👨‍💻 Check out my Portfolio! [soon](soon)
+- 👨‍💻 Check out my Portfolio! [Portfolio](soon)
 
-- 📄 Here's my Curriculum! [soon](soon)
+- 📄 Here's my Curriculum! [Curriculum](soon)
 
 - 🤓 Personality type: **ENFJ**
 
