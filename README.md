@@ -77,7 +77,7 @@
         <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/M/markdown-logo-102FDA095E-seeklogo.com.png" alt="xammp" width="40" height="40"/> 
+        <img src="https://cdn.icon-icons.com/icons2/2645/PNG/512/markdown_icon_159971.png" alt="xammp" width="40" height="40"/> 
     </a>
 </p>
 
