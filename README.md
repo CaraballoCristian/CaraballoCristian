@@ -83,18 +83,11 @@
 <h3 align="left">My last projects:</h3>
 <div>
   <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
-        <td><p><img align="center" src="" alt="" /></p></td>
-        <td><p><img align="center" src="" alt="" /></p></td>
-        <td><p><img align="center" src="" alt="" /></p></td>
+        <td><p><img align="center" src="https://github.com/CaraballoCristian/TravelAgency" alt="travel agency" /></p></td>
+        <td><p><img align="center" src="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="SPA wordpress API" /></p></td>
+        <td><p><img align="center" src="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="pokedex" /></p></td>
       </tr>
     </tbody>
   </table>
