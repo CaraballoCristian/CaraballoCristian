@@ -45,8 +45,6 @@
     </a> 
 </p>
 
-#
-
 <h3 align="left">🛠 Tools:</h3>
 <p align="left">  
     <a href="#" target="_blank" rel="noreferrer"> 
