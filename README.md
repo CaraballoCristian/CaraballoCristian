@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 Check my Portfolio! [soon](soon)
 
 - 💬 Ask me about **WebDev, Mathematics, Music**
 
 - 📫 How to reach me **cristiancaraballo07@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Here's my Curriculum! [soon](soon)
 
 #
 
