@@ -64,9 +64,14 @@
 
 <h3 align="left">⌛ My last projects:</h3>
 
-- Travel Agency: [Repo.](https://github.com/CaraballoCristian/TravelAgency)
-- SPA Blog: [Repo.](https://github.com/CaraballoCristian/SPA_with_WordpressAPI), [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
-- Pokedex: [Repo.](https://github.com/CaraballoCristian/Pokedex), [Demo.](https://caraballocristian.github.io/Pokedex/)
+- Travel Agency: 
+    - [Repo.](https://github.com/CaraballoCristian/TravelAgency)
+- SPA Blog: 
+    - [Repo](https://github.com/CaraballoCristian/SPA_with_WordpressAPI) 
+    - [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
+- Pokedex: 
+    - [Repo](https://github.com/CaraballoCristian/Pokedex) 
+    - [Demo.](https://caraballocristian.github.io/Pokedex/)
 
 #
 
