@@ -5,7 +5,7 @@
 
 #
 
-<h3 align="left">🛠 Tech Stack & Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 <p align="left">  
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -41,8 +41,20 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="springboot" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
+    </a>
+</p>
+
+#
+
+<h3 align="left">🛠 Tools:</h3>
+<p align="left">  
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -62,9 +74,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="springboot" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
@@ -75,9 +84,6 @@
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="" alt="xammp" width="40" height="40"/> 
     </a>
 </p>
 
