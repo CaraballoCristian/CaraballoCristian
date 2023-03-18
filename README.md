@@ -5,7 +5,7 @@
 
 #
 
-<h3 align="left">Tools I use:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 <p align="left">  
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -57,7 +57,7 @@
 #
 
 <h3 align="left">About me:</h3>
--   arquitectura SPA y MVC
+-   Architectures: **SPA** & **MVC**
 
 - 🎓 I’m a **Computer Science** student at **UNLP**
  
@@ -73,9 +73,9 @@
 
 - 🔗 LinkedIn Profile: [LinkedIn](https://linkedin.com/in/cristiancaraballo)
 
-- 👨‍💻 Check out my Portfolio! [Portfolio](soon)
+<!-- - 👨‍💻 Check out my Portfolio! [Portfolio](soon) -->
 
-- 📄 Here's my Curriculum! [Curriculum](soon)
+<!-- - 📄 Here's my Curriculum! [Curriculum](soon) -->
 
 - 🤓 Personality type: **ENFJ**
 
