@@ -23,64 +23,42 @@
 
 <h3 align="left">🛠 Tools:</h3>
 <p align="left">  
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="bash" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
-    </a>  
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="bash" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
+    <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
 #
 
 <h3 align="left">👨 About me:</h3>
 
-- 🎓 I’m a **Computer Science** student at **UNLP**
+- 🎓 I’m a **Computer Science** student at **UNLP**.
  
-- ❤️ I'm passionate about: **Problem Solving & Music creation**
+- ❤️ I'm passionate about: **Problem Solving & Music creation**.
 
-- 💪🏼 My current goal is **to get my first job as a WebDev**
+- 💪🏼 My current goal is **to get my first job as a WebDev**.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
-- 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**
+- 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**.
 
-- 🤝 How to reach me **cristiancaraballo07@gmail.com**
+- 🤝 How to reach me **cristiancaraballo07@gmail.com**.
 
-- 🔗 LinkedIn Profile: [LinkedIn](https://linkedin.com/in/cristiancaraballo)
+- 🔗 LinkedIn Profile: [LinkedIn.](https://linkedin.com/in/cristiancaraballo)
 
-<!-- - 👨‍💻 Check out my Portfolio! [Portfolio](soon) -->
+<!-- - 👨‍💻 Check out my Portfolio! [Portfolio.](soon) -->
 
-<!-- - 📄 Here's my Curriculum! [Curriculum](soon) -->
+<!-- - 📄 Here's my Curriculum! [Curriculum.](soon) -->
 
-- 🤓 Personality type: **ENFJ**
+- 🤓 Personality type: **ENFJ**.
 
 #
 
