@@ -85,9 +85,9 @@
   <table>
     <tbody>
       <tr>
-        <td><p><img align="center" src="https://github.com/CaraballoCristian/TravelAgency" alt="travel agency" /></p></td>
-        <td><p><img align="center" src="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="SPA wordpress API" /></p></td>
-        <td><p><img align="center" src="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="pokedex" /></p></td>
+        <td><a href="https://github.com/CaraballoCristian/TravelAgency" alt="travel agency" /></a></td>
+        <td><a href="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="SPA wordpress API" /></a></td>
+        <td><a href="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="pokedex" /></a></td>
       </tr>
     </tbody>
   </table>
