@@ -68,7 +68,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
     </a>
 </p>
 
