@@ -2,6 +2,8 @@
 
 <h1 align="center">Hello World!</h1>
 <h4 align="center">I'm Cris, a passionate Full Stack developer from Argentina</h4>
+<p>Hi Everyone 👋, I'm Cris, a **full stack web developer** based in La Plata, Buenos Aires, who is a **passionate** about exploring and learning new skills. In addition to college, I'm currently learning about **React** and **Design Patterns**, as well as looking for my first job as a web developer! 
+Most important thing: I really love what I do. ❤️</p>
 
 #
 
