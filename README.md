@@ -50,7 +50,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a>  
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/347160/markdown.svg" alt="markdown" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" alt="markdown" width="40" height="40"/> 
     </a>  
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
