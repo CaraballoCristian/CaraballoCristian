@@ -83,7 +83,7 @@
 
 <h3 align="left">Statistics:</h3>
 
-<div margin-inline="auto">
+<div align="center">
     <table>
       <thead>
         <tr>
