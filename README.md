@@ -1,19 +1,29 @@
 ![header](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/header.png)
 
 <h1 align="center">Hello World!</h1>
-<h3 align="center">I'm Cris, a passionate Full Stack developer from Argentina</h3>
+<h4 align="center">I'm Cris, a passionate Full Stack developer from Argentina</h4>
 
 #
 
+<h3 align="left">About me:</h3>
+
+- 🎓 I’m a **Computer Science** student at **UNLP**
+ 
+- ❤️ My passions are: **Problem Solving & Music creation**
+
+- 💪🏼 My current goal is **get my first job as a WebDev**
+
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Check my Portfolio! [soon](soon)
-
-- 💬 Ask me about **WebDev, Mathematics, Music**
+- 💬 You can ask me about **WebDev, Mathematics, Self Care, Music**
 
 - 📫 How to reach me **cristiancaraballo07@gmail.com**
 
+- 👨‍💻 Check out my Portfolio! [soon](soon)
+
 - 📄 Here's my Curriculum! [soon](soon)
+
+- 🤓 Personality type: **ENFJ**
 
 #
 
