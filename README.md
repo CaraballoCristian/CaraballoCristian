@@ -84,7 +84,23 @@
 <h3 align="left">Statistics:</h3>
 
 <div margin-inline="auto">
-    | | |
-    | --- | --- | 
-    |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&show_icons=true&locale=en&layout=compact" alt="caraballocristian" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&" alt="caraballocristian" /></p>|
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&show_icons=true&locale=en&layout=compact" alt="caraballocristian" /></p></td>
+          <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&" alt="caraballocristian" /></p></td>
+        </tr>
+      </tbody>
+    </table>
+
 </div>
+
+| | |
+| --- | --- | 
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&show_icons=true&locale=en&layout=compact" alt="caraballocristian" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&" alt="caraballocristian" /></p>|
