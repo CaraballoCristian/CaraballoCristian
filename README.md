@@ -71,7 +71,13 @@
         <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/347160/markdown.svg" alt="markdown" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="" alt="xammp" width="40" height="40"/> 
     </a>
 </p>
 
