@@ -77,7 +77,7 @@
         <img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/markdown.png" alt="markdown" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" alt="xammp" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg" alt="xammp" width="40" height="40"/> 
     </a>
 </p>
 
