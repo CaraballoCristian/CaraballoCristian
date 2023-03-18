@@ -110,7 +110,7 @@
 
 #
 
-<h3 align="left">My last projects:</h3>
+<h3 align="left">⌛ My last projects:</h3>
 <div width="100%">
   <table>
     <tbody>
