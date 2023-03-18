@@ -88,8 +88,6 @@
 
 <h3 align="left">👨 About me:</h3>
 
-- Architectures: **SPA** & **MVC**
-
 - 🎓 I’m a **Computer Science** student at **UNLP**
  
 - ❤️ I'm passionate about: **Problem Solving & Music creation**
