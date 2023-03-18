@@ -51,15 +51,12 @@
 <p align="left">  
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
     </a> 
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="bash" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
@@ -82,6 +79,9 @@
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
     </a>  
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a>
 </p>
 
 #
