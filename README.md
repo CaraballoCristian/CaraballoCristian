@@ -63,10 +63,10 @@
 #
 
 <h3 align="left">⌛ My last projects:</h3>
-- <a href="https://github.com/CaraballoCristian/TravelAgency" alt="travel agency" />Travel Agency</a>
-- <a href="https://github.com/CaraballoCristian/SPA_with_WordpressAPI" alt="SPA wordpress API" />SPA Blog</a>
-- <a href="https://github.com/CaraballoCristian/Pokedex" alt="pokedex" />Pokedex</a>
-
+- [Travel Agency.](https://github.com/CaraballoCristian/TravelAgency)
+- [Spa Blog.](https://github.com/CaraballoCristian/SPA_with_WordpressAPI)
+- [Pokedex.](https://github.com/CaraballoCristian/Pokedex)
+- 
 #
 
 <h3 align="left">📊 Statistics:</h3>
