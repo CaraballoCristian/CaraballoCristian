@@ -62,7 +62,7 @@
 
 - 🤓 Personality type: **ENFJ**.
 
-- ⚡ Fun fact: I used to spend my time by learning.
+- ⚡ Fun fact: I usually spend my time learning.
 
 #
 
