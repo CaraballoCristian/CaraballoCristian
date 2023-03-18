@@ -5,11 +5,6 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/cristiancaraballo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiancaraballo" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Tools I use:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -58,6 +53,11 @@
 
 #
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/cristiancaraballo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiancaraballo" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">About me:</h3>
 
 - 🎓 I’m a **Computer Science** student at **UNLP**
@@ -68,9 +68,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 You can ask me about **WebDev, Mathematics, Self Care, Music**
+- 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**
 
 - 📫 How to reach me **cristiancaraballo07@gmail.com**
+
+- 🔗 LinkedIn Profile: [LinkedIn](https://linkedin.com/in/cristiancaraballo)
 
 - 👨‍💻 Check out my Portfolio! [soon](soon)
 
