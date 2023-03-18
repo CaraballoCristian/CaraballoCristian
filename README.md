@@ -1,7 +1,7 @@
 ![header](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/header.png)
 
 <h1 align="center">Hello World!</h1>
-<h3 align="center">A Full Stack developer from Argentina</h3>
+<h3 align="center">I'm Cris, a passionate Full Stack developer from Argentina</h3>
 
 - 🌱 I’m currently learning **React**
 
