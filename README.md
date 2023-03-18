@@ -83,7 +83,6 @@
 
 <h3 align="left">Statistics:</h3>
 
-| | |
 | --- | --- |
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&show_icons=true&locale=en&layout=compact" alt="caraballocristian" /></p> | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&show_icons=true&locale=en&layout=compact" alt="caraballocristian" /></p> |
 
