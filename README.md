@@ -81,7 +81,7 @@
 #
 
 <h3 align="left">My last projects:</h3>
-<div>
+<div width="100%">
   <table>
     <tbody>
       <tr>
