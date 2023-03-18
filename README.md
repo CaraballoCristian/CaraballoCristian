@@ -1,7 +1,7 @@
 ![header](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/header.png)
 
 <h1 align="center">Hello World!</h1>
-<h4 align="center">I'm Cris, a passionate Full Stack developer from Argentina</h4>
+<h4 align="center">I'm Cris, a passionate Full Stack web developer from Argentina</h4>
 <p>Hi Everyone 👋, I'm Cris, a <strong>full stack web developer</strong> based in La Plata, Buenos Aires, who is a <strong>passionate</strong> about exploring and learning new skills. In addition to college, I'm currently learning about <strong>React</strong> and <strong>Design Patterns</strong>, as well as looking for my first job as a web developer!</p>
 <p>Most important thing: I <strong>really love</strong> what I do. ❤️</p>
 
@@ -61,6 +61,8 @@
 <!-- - 📄 Here's my Curriculum! [Curriculum.](soon) -->
 
 - 🤓 Personality type: **ENFJ**.
+
+- ⚡ Fun fact: I used to spend my time by learning.
 
 #
 
