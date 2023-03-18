@@ -64,6 +64,12 @@
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="springboot" width="40" height="40"/> 
     </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
+    </a>
 </p>
 
 #
