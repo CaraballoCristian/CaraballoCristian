@@ -133,5 +133,5 @@
 </div>
 
 <p align="center">
-    <img align="left" src="https://raw.githubusercontent.com/arpanaditya/arpanaditya/output/github-contribution-grid-snake.svg" alt="snake" />
+    <img align="center" src="https://raw.githubusercontent.com/arpanaditya/arpanaditya/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
