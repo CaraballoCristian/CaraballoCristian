@@ -64,9 +64,9 @@
 
 <h3 align="left">⌛ My last projects:</h3>
 
-- item1 [Travel Agency.](https://github.com/CaraballoCristian/TravelAgency)
-- [Spa Blog.](https://github.com/CaraballoCristian/SPA_with_WordpressAPI)
-- [Pokedex.](https://github.com/CaraballoCristian/Pokedex)
+- Travel Agency: [Repo.](https://github.com/CaraballoCristian/TravelAgency)
+- SPA Blog: [Repo.](https://github.com/CaraballoCristian/SPA_with_WordpressAPI)
+- Pokedex: [Repo.](https://github.com/CaraballoCristian/Pokedex)
 
 #
 
