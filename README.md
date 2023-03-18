@@ -57,9 +57,9 @@
 
 - 🎓 I’m a **Computer Science** student at **UNLP**
  
-- ❤️ My passions are: **Problem Solving & Music creation**
+- ❤️ I'm passionate about: **Problem Solving & Music creation**
 
-- 💪🏼 My current goal is **get my first job as a WebDev**
+- 💪🏼 My current goal is **to get my first job as a WebDev**
 
 - 🌱 I’m currently learning **React**
 
