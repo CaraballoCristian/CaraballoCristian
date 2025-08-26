@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World!</h1>
 <h4 align="center">I'm Cris, a passionate Full Stack web developer from Argentina</h4>
-<p>Hi Everyone 👋, I'm Cris, a <strong>full stack web developer</strong> based in La Plata, Buenos Aires, who is a <strong>passionate</strong> about exploring and learning new skills. In addition to college, I'm currently learning about <strong>React</strong> and <strong>Design Patterns</strong>, as well as looking for my first job as a web developer!</p>
+<p>Hi Everyone 👋, I'm Cris, a <strong>full stack web developer</strong> based in La Plata, Buenos Aires, who is a <strong>passionate</strong> about exploring and learning new skills. In addition to college, I'm currently learning about <strong>Node.js</strong> and <strong>Express.js</strong>, as well as looking for my first job as a web developer!</p>
 <p>Most important thing: I <strong>really love</strong> what I do. ❤️</p>
 
 #
@@ -11,7 +11,6 @@
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -19,19 +18,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="springboot" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
 <h3 align="left">🛠 Tools:</h3>
 <p align="left">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="bash" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
     <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xammp" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
     <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
@@ -46,11 +40,11 @@
 
 - 🎓 I’m a **Computer Science** student at **UNLP**.
  
-- ❤️ I'm passionate about: **Problem Solving & Music creation**.
+- ❤️ I really love: **Problem Solving & Music creation**.
 
 - 💪🏼 My current goal is **to get my first job as a WebDev**.
 
-- 🌱 I’m currently learning **React** & **Design Patterns**.
+- 🌱 I’m currently learning **Node.js** & **Express**.
 
 - 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**.
 
@@ -70,14 +64,15 @@
 
 <h3 align="left">⌛ My last projects:</h3>
 
+- Cashmarket Landing:
+    - [Repo](https://github.com/CaraballoCristian/cashmarket-landing) 
+    - [Demo.](https://cashmarket-landing.vercel.app/)
 - Travel Agency: 
     - [Repo.](https://github.com/CaraballoCristian/TravelAgency)
 - SPA Blog: 
     - [Repo](https://github.com/CaraballoCristian/SPA_with_WordpressAPI) 
     - [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
-- Pokedex: 
-    - [Repo](https://github.com/CaraballoCristian/Pokedex) 
-    - [Demo.](https://caraballocristian.github.io/Pokedex/)
+
 
 #
 
