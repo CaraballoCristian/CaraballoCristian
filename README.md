@@ -30,7 +30,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
     <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
-    <img src="https://www.streamlinehq.com/icons/download/brand-framer-motion--29169" alt="framer motion" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
