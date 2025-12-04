@@ -40,6 +40,21 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<h3 align="left">🛠 Tools:</h3>
+<p align="left">  
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</p>
+
+<h3 align="left">🧪 Testing:</h3>
+<p align="left">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/1817124?s=200&v=4" alt="mockito" width="40" height="40" style="border-radius:8px;"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="jest" width="40" height="40"/> 
+</p>
 #
 
 <h3 align="left">👨 About me:</h3>
@@ -50,7 +65,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 
 - 🧠 I enjoy **problem solving**.
 
-- 🌱 Currently **deepening my experience with Angular** and **exploring Python** as part of continuous learning.
+- 🌱 Currently deepening my experience with **Angular** and exploring **Python** as part of continuous learning.
 
 - 💬 You can ask me about **Web Development, Software Architecture & Mathematics**.
 
