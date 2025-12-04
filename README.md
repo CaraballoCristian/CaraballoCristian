@@ -56,7 +56,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 
 - 🎓 I’m a **Computer Science** student at **UNLP**.
 
-- 💼 I build full-stack applications using **Java/Spring Boot**, **Angular.js**, **Node.js/Express.js**, and **React/Next.js**.
+- 💼 I build full-stack applications using **Java/Spring Boot**, **Angular**, **Node.js/Express.js**, and **React/Next.js**.
 
 - 🧠 I enjoy **problem solving**.
 
@@ -76,7 +76,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 
 #
 
-<h3 align="left">⌛ My last projects: (OUTDATED!!!) </h3>
+<!-- <h3 align="left">⌛ My last projects: (OUTDATED!!!) </h3>
 
 - Cashmarket Landing:
     - [Repo](https://github.com/CaraballoCristian/cashmarket-landing) 
@@ -88,7 +88,7 @@ Currently <strong>deepening my experience with Angular</strong> and
     - [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
 
 
-#
+# -->
 
 <h3 align="left">📊 Statistics:</h3>
 
