@@ -11,7 +11,7 @@ I focus on building clean, scalable applications and understanding systems end-t
 
 <p>
 Currently <strong>deepening my experience with Angular</strong> and 
-<strong>exploring Python</strong> as part of my ongoing learning process.
+<strong>exploring Python for AI</strong> as part of my ongoing learning process.
 </p>
 
 #
