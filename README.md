@@ -17,6 +17,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 #
 
 <h3 align="left">💻 Tech Stack:</h3>
+<h4 align="left">FrontEnd</h4>
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -25,9 +26,16 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</p>
+<h4 align="left">Backend</h4>
+<p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="springboot" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Node" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Express" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> 
+    <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/> 
 </p>
@@ -38,24 +46,8 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
     <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
-
-<h3 align="left">🛠 Tools:</h3>
-<p align="left">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
-    <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </p>
-
-<h3 align="left">🧪 Testing:</h3>
-<p align="left">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> 
-    <img src="https://avatars.githubusercontent.com/u/1817124?s=200&v=4" alt="mockito" width="40" height="40" style="border-radius:8px;"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="jest" width="40" height="40"/> 
-</p>
-#
 
 <h3 align="left">👨 About me:</h3>
 
