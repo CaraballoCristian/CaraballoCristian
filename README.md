@@ -27,7 +27,7 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
-    <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/> 
 </p>
 <h4 align="left">🧠 Backend</h4>
 <p align="left">  
