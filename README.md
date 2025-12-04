@@ -1,93 +1,74 @@
-![header](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/header.png) 
+![header](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/header.png)
 
-<h1 align="center">Hello World!</h1>
-<h4 align="center">I'm Cris, a passionate Full Stack web developer from Argentina</h4>
-<p>Hi Everyone 👋, I'm Cris, a <strong>full stack web developer</strong> based in La Plata, Buenos Aires, who is a <strong>passionate</strong> about exploring and learning new skills. In addition to college, I'm currently learning about <strong>Node.js</strong> and <strong>Express.js</strong>, as well as looking for my first job as a web developer!</p>
-<p>Most important thing: I <strong>really love</strong> what I do. ❤️</p>
+<h1 align="center">Hello World! 👋</h1>
+<h4 align="center">Cris — Full-Stack Web Developer</h4>
 
-#
-
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    <img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF" alt="next" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<p align="center">
+Full-Stack developer specialized in <strong>Java/Spring Boot</strong> and the <strong>MERN/Next.js</strong> ecosystem.  
+Focused on clean architecture, scalability and real-world problem solving.
 </p>
 
-<h3 align="left">🛠 Tools:</h3>
-<p align="left">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
-    <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_566_0_0_0_auto.png" alt="markdown" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> 
-    <img src="https://img.icons8.com/?size=100&id=js8pNS2UtYKY&format=png&color=FFFFFF" alt="framer motion" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
-</p>
+---
 
-#
+## 🚀 About Me
 
-<h3 align="left">👨 About me:</h3>
+- 🎓 **Computer Science student at UNLP**, strongly oriented to backend, architecture and system design.
+- 💼 I build full-stack applications using **Java/Spring Boot**, **Node.js**, and **React/Next.js**.
+- 🧠 I enjoy **algorithms, problem solving, clean code and understanding systems end-to-end**.
+- 🌱 Currently **deepening my experience with Angular** and **exploring Python** as part of continuous learning.
+- 💬 You can ask me about **Web Development, Software Architecture, Mathematics, Self-Care & Music Production**.
+- 📫 **Email:** cristiancaraballo.work@gmail.com  
+  🔗 **LinkedIn:** https://linkedin.com/in/cristiancaraballo
+- ⚡ Fun fact: I learn something new every day.
 
-- 🎓 I’m a **Computer Science** student at **UNLP**.
- 
-- ❤️ I really love: **Problem Solving & Music creation**.
+---
 
-- 💪🏼 My current goal is **to get my first job as a WebDev**.
+## 🧩 Tech Stack
 
-- 🌱 I’m currently learning **Node.js** & **Express**.
+### **Frontend**
+React • Next.js • TypeScript • JavaScript  
+Angular • Tailwind CSS • Sass • GSAP • Framer Motion
 
-- 💬 You can ask me about **WebDev, Mathematics, Self Care & Music**.
+### **Backend (Java)**
+Java • Spring Boot • Spring Data • Spring MVC  
+MySQL • REST API design • JUnit • Mockito
 
-- 🤝 How to reach me **cristiancaraballo.work@gmail.com**.
+### **Backend (JavaScript)**
+Node.js • Express • MongoDB  
+REST APIs • Jest • SuperTest
 
-- 🔗 LinkedIn Profile: [LinkedIn.](https://linkedin.com/in/cristiancaraballo)
+### **Other Tools**
+Git • Postman • Docker • Linux • VSCode • Notion • Figma • Markdown
 
-<!-- - 👨‍💻 Check out my Portfolio! [Portfolio.](soon) -->
+---
 
-<!-- - 📄 Here's my Curriculum! [Curriculum.](soon) -->
+## 🛠 Projects
 
-- 🤓 Personality type: **ENFJ**.
+### 🔹 **Cashmarket Landing**
+- **Repo:** https://github.com/CaraballoCristian/cashmarket-landing  
+- **Demo:** https://cashmarket-landing.vercel.app/
 
-- ⚡ Fun fact: I usually spend my time learning.
+### 🔹 **Travel Agency SPA**
+- **Repo:** https://github.com/CaraballoCristian/TravelAgency
 
-#
+### 🔹 **SPA Blog (WordPress API)**
+- **Repo:** https://github.com/CaraballoCristian/SPA_with_WordpressAPI  
+- **Demo:** https://caraballocristian.github.io/SPA_with_WordpressAPI/
 
-<h3 align="left">⌛ My last projects:</h3>
+---
 
-- Cashmarket Landing:
-    - [Repo](https://github.com/CaraballoCristian/cashmarket-landing) 
-    - [Demo.](https://cashmarket-landing.vercel.app/)
-- Travel Agency: 
-    - [Repo.](https://github.com/CaraballoCristian/TravelAgency)
-- SPA Blog: 
-    - [Repo](https://github.com/CaraballoCristian/SPA_with_WordpressAPI) 
-    - [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
-
-
-#
-
-<h3 align="left">📊 Statistics:</h3>
+## 📊 GitHub Stats
 
 <div align="center">
-    <table>
-      <tbody>
-        <tr>
-          <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="caraballocristian" /></p></td>
-          <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caraballocristian&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true&cache_seconds=60" alt="caraballocristian" /></p></td>
-       </tr>
-      </tbody>
-    </table>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" alt="caraballocristian" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=000000&title_color=7A7ADB&text_color=D3D3D3" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caraballocristian&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=000000&title_color=7A7ADB&text_color=D3D3D3" height="150" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&background=000000&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&sideNums=7A7ADB&dates=A3A3A3&sideLabels=D3D3D3" />
+</div>
+
+---
+
+## 🤝 Thanks for visiting!
+Feel free to reach out — always building, learning and improving.
