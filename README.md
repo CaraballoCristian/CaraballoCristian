@@ -57,7 +57,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 
 - 🧠 I enjoy **problem solving**.
 
-- 🌱 Currently deepening my experience with **Angular** and exploring **Python** as part of continuous learning.
+- 🌱 Currently deepening my experience with **Angular** and exploring **Python for AI**, as part of my ongoing commitment to continuous learning.
 
 - 💬 You can ask me about **Web Development, Software Architecture & Mathematics**.
 
