@@ -17,7 +17,7 @@ Currently <strong>deepening my experience with Angular</strong> and
 #
 
 <h3 align="left">💻 Tech Stack:</h3>
-<h4 align="left">FrontEnd</h4>
+<h4 align="left">🎨 FrontEnd</h4>
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -27,7 +27,7 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
-<h4 align="left">Backend</h4>
+<h4 align="left">🧠 Backend</h4>
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
