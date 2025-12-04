@@ -33,10 +33,10 @@ Currently <strong>deepening my experience with Angular</strong> and
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="springboot" width="40" height="40"/> 
     <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express" width="40" height="40"/> 
+    <img src="https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png" alt="Express" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> 
     <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" width="40" height="40"/> 
-    <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/> 
 </p>
 
