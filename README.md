@@ -10,8 +10,8 @@ I focus on building clean, scalable applications and understanding systems end-t
 </p>
 
 <p>
-Currently <strong>deepening my experience with Angular</strong> and 
-<strong>exploring Python for AI</strong> as part of my ongoing learning process.
+Currently <strong>deepening my experience with Spring</strong> and 
+<strong>exploring Angular</strong> as part of my ongoing learning process.
 </p>
 
 #
