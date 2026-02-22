@@ -1,4 +1,4 @@
-![banner](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/banner.png) 
+![banner](https://github.com/CaraballoCristian/CaraballoCristian/blob/main/Banner.png) 
 
 <h1 align="center">Hello World! 👋</h1>
 <h4 align="center">Cris — Full-Stack Web Developer</h4>
