@@ -38,7 +38,7 @@ Currently <strong>deepening my experience with Spring</strong> and
     <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> 
     <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXTekdI5C5F0CBOnhafuchImiQg9jfQy4rQ_fiYe-Vw&s=10" alt="postgresql" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/> 
 </p>
 
