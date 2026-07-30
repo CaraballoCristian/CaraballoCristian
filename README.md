@@ -59,7 +59,7 @@ Currently <strong>deepening my experience with Spring</strong> and
 
 - 🧩 I like debugging almost as much as building — figuring out why something broke is half the fun.
 
-- 🌱 Currently deepening my experience with **Angular** and exploring **Python for AI**, as part of my ongoing commitment to continuous learning.
+- 🎯 Interested in the space where technical execution meets project strategy — not just building the thing, but planning how it gets built.
 
 - 📊 Recently completed the **Google Project Management** certification — I like thinking about how projects get managed, not just how they get built.
 
