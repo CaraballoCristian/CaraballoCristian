@@ -42,7 +42,6 @@ Currently <strong>deepening my experience with Spring</strong> and
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/> 
 </p>
 
-
 <h3 align="left">🛠 Tools:</h3>
 <p align="left">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -54,52 +53,30 @@ Currently <strong>deepening my experience with Spring</strong> and
 
 <h3 align="left">👨 About me:</h3>
 
-- 🎓 I’m a **Computer Science** student at **UNLP**.
+- 🎓 Taking a break from my **Computer Science** degree at **UNLP** to focus on hands-on development.
 
 - 💼 I build full-stack applications using **Java/Spring Boot**, **Angular**, **Node.js/Express.js**, and **React/Next.js**.
 
-- 🧠 I enjoy **problem solving**.
+- 🧩 I like debugging almost as much as building — figuring out why something broke is half the fun.
 
 - 🌱 Currently deepening my experience with **Angular** and exploring **Python for AI**, as part of my ongoing commitment to continuous learning.
 
-- 💬 You can ask me about **Web Development, Software Architecture & Mathematics**.
+- 📊 Recently completed the **Google Project Management** certification — I like thinking about how projects get managed, not just how they get built.
+
+- 💬 You can ask me about **Web Development, Software Architecture, Mathematics & Project Management**.
 
 - 📫 **Email:** cristiancaraballo.work@gmail.com
 
 - 🔗 **LinkedIn:** https://linkedin.com/in/cristiancaraballo
 
-<!-- - 👨‍💻 Check out my Portfolio! [Portfolio.](soon) -->
+- 👨‍💻 **Portfolio:** https://cristiancaraballo.tech
 
-<!-- - 📄 Here's my Curriculum! [Curriculum.](soon) -->
-
-- ⚡ Fun fact: I learn something new every day.
+- ⚡ When I'm not coding, I'm probably taking something apart just to see how it works.
 
 #
-
-<!-- <h3 align="left">⌛ My last projects: (OUTDATED!!!) </h3>
-
-- Cashmarket Landing:
-    - [Repo](https://github.com/CaraballoCristian/cashmarket-landing) 
-    - [Demo.](https://cashmarket-landing.vercel.app/)
-- Travel Agency: 
-    - [Repo.](https://github.com/CaraballoCristian/TravelAgency)
-- SPA Blog: 
-    - [Repo](https://github.com/CaraballoCristian/SPA_with_WordpressAPI) 
-    - [Demo.](https://caraballocristian.github.io/SPA_with_WordpressAPI/)
-
-
-# -->
 
 <h3 align="left">📊 Statistics:</h3>
 
 <div align="center">
-    <table>
-      <tbody>
-        <tr>
-          <!-- <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caraballocristian&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="caraballocristian" /></p></td>
-          <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caraballocristian&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true&cache_seconds=60" alt="caraballocristian" /></p></td> -->
-       </tr>
-      </tbody>
-    </table>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caraballocristian&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" alt="caraballocristian" /></p>
 </div>
