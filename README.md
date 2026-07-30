@@ -53,7 +53,7 @@ Currently <strong>deepening my experience with Spring</strong> and
 
 <h3 align="left">👨 About me:</h3>
 
-- 🎓 Taking a break from my **Computer Science** degree at **UNLP** to focus on hands-on development.
+- 🎓 Background in Electronic Engineering and Systems Engineering (UNLP) — the foundation for how I approach technical problems.
 
 - 💼 I build full-stack applications using **Java/Spring Boot**, **Angular**, **Node.js/Express.js**, and **React/Next.js**.
 
